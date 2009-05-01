@@ -17,8 +17,4 @@ _2)_ Поместите файлы в нужный каталог в завис�
 
 После этого запустите Psi, нажмите в главном меню General → Change Profile (предварительно отключив все учётные записи от сети) и выберите в качестве языка Русский.
 
-[http://code.google.com/p/psi-ru/downloads/list http://psi-ru.googlecode.com/svn/wiki/Images/psi-ru.png]
-
-test
-
-<a "href=http://code.google.com/p/psi-ru/downloads/list"><img src="http://psi-ru.googlecode.com/svn/wiki/Images/psi-ru.png" alt="Download" title="Download"></img></a>
+<a href="http://code.google.com/p/psi-ru/downloads/list"><img src="http://psi-ru.googlecode.com/svn/wiki/Images/psi-ru.png" alt="Download" title="Download"></img></a>
